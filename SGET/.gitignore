@@ -1,1 +1,6 @@
 /build/
+.tern-project
+org.eclipse.jst.j2ee.ejb.annotations.xdoclet
+org.eclipse.wst.common.project.facet.core
+org.eclipse.wst.common.project.facet.core.xml
+/.classpath
