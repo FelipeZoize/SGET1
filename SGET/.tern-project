@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"libs":["browser","ecma5"],"ide":{}}
+=======
+{"ide":{},"libs":["ecma5","browser"],"plugins":{"guess-types":{},"outline":{},"angular":{}}}
+>>>>>>> origin/master
