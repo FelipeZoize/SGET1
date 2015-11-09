@@ -1,6 +1,5 @@
 package com.sgetejb.dao;
 
-import javax.ejb.Local;
 import javax.ejb.Stateless;
 
 import com.sgetejb.model.Agenda;
